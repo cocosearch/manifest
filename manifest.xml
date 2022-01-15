@@ -5,6 +5,6 @@
   <project name="cli.git" path="cli" />
   <project name="cocosearch.github.io.git" path="cocosearch.github.io" />
   <project name="engine.git" path="engine" />
-  <project name="plugin.git" path="plugin" />
+  <project name="plugins.git" path="plugins" />
   <project name="web.git" path="web" />
 </manifest>

@@ -2,8 +2,10 @@
 <manifest>
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
+  <project name=".github.git" path="github" />
   <project name="cli.git" path="cli" />
   <project name="cocosearch.github.io.git" path="cocosearch.github.io" />
+  <project name="demo.git" path="demo" />
   <project name="indexer.git" path="indexer" />
   <project name="plugins.git" path="plugins" />
   <project name="server.git" path="server" />
